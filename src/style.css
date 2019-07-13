@@ -1,0 +1,108 @@
+
+/* body{
+    height: 1400px;
+} */
+
+.navbar {
+    background-color: white;
+}
+
+.navbar img {
+    height: 25px;
+    margin-top: 1px;
+}
+
+.reseme {
+    border: 0;
+    height: 32px;
+    width: 120px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(200, 200, 200);
+    margin-right: 25px;
+}
+
+.reseme a  {
+    color: rgb(50, 50, 50);
+}
+
+.navbar a {
+    cursor: default;
+}
+
+.navbar-nav a {
+    color: black !important;
+}
+
+ .reseme:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 150);
+    border: none;
+}
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+.contactlist{
+    padding: 20px 0px 20px 0px;
+    height: 280px;
+    /* background-color: #fff; */
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    -moz-transform: translateX(-1%) translateY(-50%);
+    -webkit-transform: translateX(-1%) translateY(-50%);
+    transform: translateX(-1%) translateY(-50%);
+    position: fixed;
+}
+.icon {
+    border: 1px solid black;
+    height: 36px;
+    width: 36px;
+    list-style: none;
+}
+
+.icon {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.icon img {
+    height: 35px;
+    width: 35px;
+}
+
+.twitter {
+    text-align: center;
+    line-height: 30px;
+}
+
+.twitter img {
+    height: 25px;
+    width: 25px;
+}
+
+.facebook img {
+    height: 34px;
+    width: 34px;
+}
+
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.container1{
+    /* background-color: rgb(224, 224, 224); */
+    height: 600px;
+    margin-bottom: 50px;
+
+}
+
+
+
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+footer{
+    background-color: rgb(20, 20, 20);
+    height: 900px;
+}
+
+
